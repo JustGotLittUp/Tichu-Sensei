@@ -1,0 +1,977 @@
+---------------Gr.Tichukarten------------------
+(0)@UNO@ S9 R9 G9 G6 R4 B4 G2 R2 
+(1)karaflas* Dr BA BB G5 S4 R3 S3 Ma 
+(2)dot_hacker GD R10 S10 G7 R5 S5 G3 B3 
+(3)MontaguesCapulets SK RD G8 S7 B5 G4 S2 B2 
+---------------Startkarten------------------
+(0)@UNO@ Ph BD RB B9 S9 R9 G9 S6 G6 R6 R4 B4 G2 R2 
+(1)karaflas* Dr BA RA BK BB R8 R7 B6 G5 S4 S3 R3 Ma Hu 
+(2)dot_hacker GA SD GD GB R10 S10 G10 S8 B7 G7 R5 S5 G3 B3 
+(3)MontaguesCapulets SA GK RK SK RD SB B10 G8 B8 S7 B5 G4 S2 B2 
+Grosses Tichu: (1)karaflas*
+Schupfen:
+(0)@UNO@ gibt: karaflas*: R4 - dot_hacker: RB - MontaguesCapulets: B4 - 
+(1)karaflas* gibt: dot_hacker: S3 - MontaguesCapulets: BB - @UNO@: Hu - 
+(2)dot_hacker gibt: MontaguesCapulets: G3 - @UNO@: GB - karaflas*: B3 - 
+(3)MontaguesCapulets gibt: @UNO@: B2 - karaflas*: SA - dot_hacker: S2 - 
+BOMBE: (0)@UNO@ 
+---------------Rundenverlauf------------------
+(1)karaflas*: Ma 
+Wunsch:A
+(2)dot_hacker: GA 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: S3 
+(3)MontaguesCapulets: B5 
+(0)@UNO@: GB 
+(1)karaflas*: BA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: S4 
+(2)dot_hacker: S8 
+(3)MontaguesCapulets: B10 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker: RB 
+(3)MontaguesCapulets: RD 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: G3 
+(0)@UNO@: BD 
+(1)karaflas*: RA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: Ph 
+(1)karaflas*: Dr 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+Drache an: (0)@UNO@
+(1)karaflas*: R3 
+(2)dot_hacker: SD 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas*: BK 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: R8 
+(2)dot_hacker: GD 
+(3)MontaguesCapulets: SK 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: S7 
+(0)@UNO@ passt.
+(1)karaflas*: SA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: R7 B6 G5 R4 B3 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(2)dot_hacker: R5 S5 
+(3)MontaguesCapulets: G8 B8 
+(0)@UNO@ passt.
+(2)dot_hacker: R10 S10 
+(3)MontaguesCapulets: BB SB 
+(0)@UNO@ passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: GK RK 
+(0)@UNO@: B9 S9 R9 G9 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: Hu 
+(2)dot_hacker: S2 
+(3)MontaguesCapulets: G4 
+(0)@UNO@: S6 
+(2)dot_hacker: G10 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(2)dot_hacker passt.
+(2)dot_hacker: B7 G7 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(3)MontaguesCapulets: B4 
+Ergebnis: 10 - 290
+---------------Gr.Tichukarten------------------
+(0)@UNO@ SA GK SK GB S10 R10 R7 Ma 
+(1)karaflas* Ph BK R9 B8 B7 B6 R3 G3 
+(2)dot_hacker B9 G6 R6 G5 R5 G4 S3 G2 
+(3)MontaguesCapulets GA BA G10 S9 B5 R4 S4 B4 
+---------------Startkarten------------------
+(0)@UNO@ SA GK SK BD RD GB S10 R10 R8 R7 S7 S6 R2 Ma 
+(1)karaflas* Ph BK SD B10 R9 B8 G7 B7 B6 G3 R3 B3 S2 Hu 
+(2)dot_hacker Dr RA RK SB BB B9 R6 G6 R5 G5 G4 S3 B2 G2 
+(3)MontaguesCapulets GA BA GD RB G10 S9 G9 S8 G8 S5 B5 R4 S4 B4 
+Grosses Tichu: (1)karaflas*
+Schupfen:
+(0)@UNO@ gibt: karaflas*: R2 - dot_hacker: R8 - MontaguesCapulets: S6 - 
+(1)karaflas* gibt: dot_hacker: S2 - MontaguesCapulets: Hu - @UNO@: G7 - 
+(2)dot_hacker gibt: MontaguesCapulets: B9 - @UNO@: Dr - karaflas*: S3 - 
+(3)MontaguesCapulets gibt: @UNO@: S5 - karaflas*: BA - dot_hacker: B5 - 
+BOMBE: (1)karaflas* 
+---------------Rundenverlauf------------------
+Tichu: (0)@UNO@
+(0)@UNO@: Ma 
+Wunsch:6
+(1)karaflas*: B6 
+(2)dot_hacker: R8 
+(3)MontaguesCapulets passt.
+(0)@UNO@: GB 
+(1)karaflas*: BA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: BK SD Ph B10 R9 B8 B7 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: R2 
+(2)dot_hacker: G4 
+(3)MontaguesCapulets: S6 
+(0)@UNO@: R7 
+(1)karaflas*: R3 B3 S3 G3 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(2)dot_hacker: R6 
+(3)MontaguesCapulets: S8 
+(0)@UNO@: S10 
+(2)dot_hacker passt.
+(3)MontaguesCapulets: GA 
+(0)@UNO@: Dr 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+Drache an: (3)MontaguesCapulets
+(0)@UNO@: S5 
+(2)dot_hacker: G6 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(2)dot_hacker passt.
+(2)dot_hacker: B5 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(2)dot_hacker passt.
+(2)dot_hacker: R5 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(2)dot_hacker passt.
+(2)dot_hacker: G5 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(2)dot_hacker passt.
+(2)dot_hacker: S2 
+(3)MontaguesCapulets: G8 
+(0)@UNO@: R10 
+(2)dot_hacker passt.
+(3)MontaguesCapulets: RB 
+(0)@UNO@: BD 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: S7 
+(2)dot_hacker passt.
+(3)MontaguesCapulets: G10 
+(0)@UNO@: RD 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: G7 
+(2)dot_hacker passt.
+(3)MontaguesCapulets: GD 
+(0)@UNO@: SA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: SK GK 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(2)dot_hacker: RA 
+(3)MontaguesCapulets passt.
+(2)dot_hacker passt.
+(2)dot_hacker: RK 
+(3)MontaguesCapulets passt.
+(2)dot_hacker passt.
+(2)dot_hacker: B2 G2 
+(3)MontaguesCapulets: S9 G9 
+(2)dot_hacker: SB BB 
+Ergebnis: -30 - 230
+---------------Gr.Tichukarten------------------
+(0)@UNO@ Dr BD GD R10 G7 S6 G6 G5 
+(1)karaflas* RA GB S10 R6 G4 S4 R3 G3 
+(2)dot_hacker RK B9 S8 G8 B6 R5 S3 Hu 
+(3)MontaguesCapulets GK R9 S9 R8 S7 B4 B2 Ma 
+---------------Startkarten------------------
+(0)@UNO@ Dr GA GD BD RD SD RB R10 G9 G7 G6 S6 G5 S5 
+(1)karaflas* Ph SA RA BK GB G10 S10 B8 R6 S4 G4 G3 R3 G2 
+(2)dot_hacker RK BB SB B9 S8 G8 R7 B7 B6 R5 S3 B3 R2 Hu 
+(3)MontaguesCapulets BA SK GK B10 S9 R9 R8 S7 B5 B4 R4 B2 S2 Ma 
+Grosses Tichu: (0)@UNO@
+Schupfen:
+(0)@UNO@ gibt: karaflas*: G9 - dot_hacker: GA - MontaguesCapulets: G7 - 
+(1)karaflas* gibt: dot_hacker: R6 - MontaguesCapulets: BK - @UNO@: B8 - 
+(2)dot_hacker gibt: MontaguesCapulets: S8 - @UNO@: RK - karaflas*: B7 - 
+(3)MontaguesCapulets gibt: @UNO@: S2 - karaflas*: BA - dot_hacker: B2 - 
+BOMBE: (0)@UNO@ 
+---------------Rundenverlauf------------------
+(3)MontaguesCapulets: Ma 
+Wunsch:A
+(0)@UNO@: S2 
+(1)karaflas*: SA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: S4 G4 G3 R3 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: G6 S6 G5 S5 
+(1)karaflas*: Ph GB G10 S10 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: G2 
+(2)dot_hacker: R6 
+(3)MontaguesCapulets: B10 
+(0)@UNO@: RB 
+(1)karaflas*: RA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: Dr 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+Drache an: (3)MontaguesCapulets
+(0)@UNO@: R10 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets: BK 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: B4 R4 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker: BB SB 
+(3)MontaguesCapulets: SK GK 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: S9 R9 R8 S8 S7 G7 
+(0)@UNO@: GD BD RD SD 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: RK 
+(1)karaflas*: BA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: B7 
+(2)dot_hacker: GA 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: B9 G8 R7 B6 R5 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: Hu 
+(0)@UNO@: B8 
+(1)karaflas*: G9 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(2)dot_hacker: S3 B3 B2 R2 
+Ergebnis: 285 - 15
+---------------Gr.Tichukarten------------------
+(0)@UNO@ GA SK SD B9 S9 B8 S8 B5 
+(1)karaflas* SA BK RK GK S10 B6 B2 Ma 
+(2)dot_hacker Ph GD RB GB R7 S7 B7 G5 
+(3)MontaguesCapulets G10 B10 G7 R5 S5 B3 R3 R2 
+---------------Startkarten------------------
+(0)@UNO@ GA RA SK SD S9 B9 S8 B8 G8 R8 B5 S4 G3 G2 
+(1)karaflas* SA BK RK GK BD SB R10 S10 G9 B6 S6 S3 B2 Ma 
+(2)dot_hacker Ph GD RB GB BB S7 B7 R7 R6 G6 G5 G4 R4 S2 
+(3)MontaguesCapulets Dr BA RD B10 G10 R9 G7 R5 S5 B4 R3 B3 R2 Hu 
+Grosses Tichu: (2)dot_hacker
+Schupfen:
+(0)@UNO@ gibt: karaflas*: G2 - dot_hacker: RA - MontaguesCapulets: G3 - 
+(1)karaflas* gibt: dot_hacker: B2 - MontaguesCapulets: G9 - @UNO@: S3 - 
+(2)dot_hacker gibt: MontaguesCapulets: S2 - @UNO@: GD - karaflas*: G5 - 
+(3)MontaguesCapulets gibt: @UNO@: R2 - karaflas*: Dr - dot_hacker: Hu - 
+BOMBE: (0)@UNO@ 
+---------------Rundenverlauf------------------
+(1)karaflas*: Ma 
+Wunsch:4
+(2)dot_hacker: G4 
+(3)MontaguesCapulets: G7 
+(0)@UNO@ passt.
+(1)karaflas*: SB 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: SD 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets: BA 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: S2 
+(0)@UNO@: S3 
+(1)karaflas*: R10 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: GD 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: S4 
+(1)karaflas*: S10 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: SK 
+(1)karaflas*: SA 
+(2)dot_hacker: Ph 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas*: Dr 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+Drache an: (0)@UNO@
+(1)karaflas*: G5 
+(2)dot_hacker: RB 
+(3)MontaguesCapulets: RD 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: B4 
+(0)@UNO@ passt.
+(1)karaflas*: BD 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: RK GK BK B6 S6 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: S8 B8 G8 R8 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: R2 
+(1)karaflas* passt.
+(2)dot_hacker: R4 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: B2 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: B7 R7 R6 G6 
+(3)MontaguesCapulets: B10 G10 G9 R9 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: R5 S5 R3 B3 G3 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(0)@UNO@: B5 
+(1)karaflas* passt.
+(2)dot_hacker: S7 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: GB BB 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: RA 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: Hu 
+(0)@UNO@: GA 
+(1)karaflas* passt.
+(0)@UNO@ passt.
+(0)@UNO@: S9 B9 
+Ergebnis: -135 - 35
+---------------Gr.Tichukarten------------------
+(0)@UNO@ RK SD RB SB G8 S5 S3 G2 
+(1)karaflas* RA B10 B9 S8 S6 B5 S4 R4 
+(2)dot_hacker Dr SK GK GB G10 G6 G5 B2 
+(3)MontaguesCapulets Ph BA SA GA R10 R8 G7 Ma 
+---------------Startkarten------------------
+(0)@UNO@ RK SD RB SB BB G8 R6 R5 S5 B4 B3 S3 G3 G2 
+(1)karaflas* RA GD RD B10 B9 G9 S8 S6 B5 R4 S4 R3 S2 R2 
+(2)dot_hacker Dr SK GK BK GB G10 S10 R9 S7 R7 B6 G6 G5 B2 
+(3)MontaguesCapulets Ph BA SA GA BD R10 S9 B8 R8 G7 B7 G4 Ma Hu 
+Grosses Tichu: (3)MontaguesCapulets
+Schupfen:
+(0)@UNO@ gibt: karaflas*: R6 - dot_hacker: RK - MontaguesCapulets: G8 - 
+(1)karaflas* gibt: dot_hacker: S2 - MontaguesCapulets: RA - @UNO@: S4 - 
+(2)dot_hacker gibt: MontaguesCapulets: B2 - @UNO@: GB - karaflas*: R9 - 
+(3)MontaguesCapulets gibt: @UNO@: G4 - karaflas*: Hu - dot_hacker: S9 - 
+BOMBE: (0)@UNO@ (2)dot_hacker (3)MontaguesCapulets 
+---------------Rundenverlauf------------------
+(3)MontaguesCapulets: Ma 
+Wunsch:4
+(0)@UNO@: G4 
+(1)karaflas*: R6 
+Tichu: (2)dot_hacker
+(2)dot_hacker: S9 
+(3)MontaguesCapulets: R10 
+(0)@UNO@ passt.
+(1)karaflas*: RD 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: Hu 
+(3)MontaguesCapulets: B2 
+(0)@UNO@: G3 
+(1)karaflas*: GD 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: B10 
+(2)dot_hacker passt.
+(3)MontaguesCapulets: BD 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker: Dr 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+Drache an: (1)karaflas*
+(2)dot_hacker: G5 
+(3)MontaguesCapulets: R8 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: Ph G8 B8 G7 B7 
+(3)MontaguesCapulets: BA SA GA RA 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(0)@UNO@: G2 
+(1)karaflas*: S8 
+(2)dot_hacker: G10 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: S10 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: S2 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: G6 B6 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: R7 S7 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: SK GK BK RK 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(0)@UNO@: SD 
+(1)karaflas* passt.
+(0)@UNO@ passt.
+(0)@UNO@: R5 S5 S4 B4 B3 S3 
+(1)karaflas* passt.
+(0)@UNO@ passt.
+(0)@UNO@: GB RB SB BB 
+Ergebnis: -25 - 225
+---------------Gr.Tichukarten------------------
+(0)@UNO@ Dr SA BA S10 S9 R7 B4 B3 
+(1)karaflas* SD BD BB R9 G8 B5 R4 G2 
+(2)dot_hacker RA GK R8 S8 G7 S7 S5 Ma 
+(3)MontaguesCapulets GA GD RB B9 R6 G5 G3 B2 
+---------------Startkarten------------------
+(0)@UNO@ Dr SA BA RD SB S10 S9 R7 S4 G4 B4 S3 R3 B3 
+(1)karaflas* Ph RK BK BD SD BB G10 R9 G9 G8 B7 B5 R4 G2 
+(2)dot_hacker RA GK SK S8 R8 S7 G7 G6 S6 R5 S5 S2 Ma Hu 
+(3)MontaguesCapulets GA GD RB GB R10 B10 B9 B8 B6 R6 G5 G3 B2 R2 
+Grosses Tichu: (0)@UNO@
+Schupfen:
+(0)@UNO@ gibt: karaflas*: S9 - dot_hacker: Dr - MontaguesCapulets: R7 - 
+(1)karaflas* gibt: dot_hacker: G2 - MontaguesCapulets: R4 - @UNO@: G9 - 
+(2)dot_hacker gibt: MontaguesCapulets: S2 - @UNO@: RA - karaflas*: R5 - 
+(3)MontaguesCapulets gibt: @UNO@: R2 - karaflas*: GA - dot_hacker: B2 - 
+---------------Rundenverlauf------------------
+(2)dot_hacker: Ma 
+Wunsch:10
+(3)MontaguesCapulets: R10 
+(0)@UNO@: SB 
+(1)karaflas*: GA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: BB G10 R9 G8 B7 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: B5 R5 
+(2)dot_hacker: GK SK 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: Hu 
+(0)@UNO@: G9 
+(1)karaflas*: BD 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: BA 
+(1)karaflas*: Ph 
+(2)dot_hacker: Dr 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+Drache an: (1)karaflas*
+(2)dot_hacker: S5 
+(3)MontaguesCapulets: B6 
+(0)@UNO@: S10 
+(1)karaflas*: SD 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: SA 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: S4 G4 B4 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: S3 R3 B3 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: RD 
+(1)karaflas*: RK 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: S9 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: RA 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: R2 
+(1)karaflas*: BK 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(2)dot_hacker: S8 R8 S7 G7 G6 S6 
+(3)MontaguesCapulets passt.
+(2)dot_hacker passt.
+(2)dot_hacker: G2 B2 
+Ergebnis: 260 - 40
+---------------Gr.Tichukarten------------------
+(0)@UNO@ SK SD G10 R9 B8 S8 R5 S3 
+(1)karaflas* GA RA RK S10 R6 G4 B3 S2 
+(2)dot_hacker Ph BD RB G8 S7 B2 G2 Hu 
+(3)MontaguesCapulets BB B10 S9 B9 R7 B7 B5 R2 
+---------------Startkarten------------------
+(0)@UNO@ BA SK SD G10 R9 S8 B8 G7 B6 S6 R5 S4 S3 Ma 
+(1)karaflas* GA RA SA RK BK S10 R10 R6 G4 B4 R4 R3 B3 S2 
+(2)dot_hacker Dr Ph GK BD RD GB RB G8 S7 G6 G5 B2 G2 Hu 
+(3)MontaguesCapulets GD SB BB B10 G9 S9 B9 R8 R7 B7 B5 S5 G3 R2 
+Grosses Tichu: (2)dot_hacker
+Schupfen:
+(0)@UNO@ gibt: karaflas*: B6 - dot_hacker: BA - MontaguesCapulets: B8 - 
+(1)karaflas* gibt: dot_hacker: S2 - MontaguesCapulets: GA - @UNO@: R6 - 
+(2)dot_hacker gibt: MontaguesCapulets: G6 - @UNO@: GK - karaflas*: G5 - 
+(3)MontaguesCapulets gibt: @UNO@: R2 - karaflas*: SB - dot_hacker: G3 - 
+BOMBE: (3)MontaguesCapulets 
+---------------Rundenverlauf------------------
+(0)@UNO@: Ma 
+Wunsch:A
+(1)karaflas*: RA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: B4 R4 G4 B3 R3 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: G5 
+(2)dot_hacker: S7 
+(3)MontaguesCapulets: G9 
+(0)@UNO@ passt.
+(1)karaflas*: SB 
+(2)dot_hacker passt.
+(3)MontaguesCapulets: GD 
+(0)@UNO@: SK 
+(1)karaflas*: SA 
+(2)dot_hacker: Ph 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: G3 
+(3)MontaguesCapulets: S5 
+(0)@UNO@: S6 
+(1)karaflas*: R10 
+(2)dot_hacker: BD 
+(3)MontaguesCapulets: GA 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker: Dr 
+(3)MontaguesCapulets: BB B10 B9 B8 B7 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: S9 R8 R7 G6 B5 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(0)@UNO@: SD 
+(1)karaflas*: BK 
+(2)dot_hacker: BA 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: Hu 
+(0)@UNO@: R9 
+(1)karaflas*: S10 
+(2)dot_hacker: RD 
+(0)@UNO@: GK 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(0)@UNO@ passt.
+(0)@UNO@: S8 G7 R6 R5 S4 S3 R2 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(0)@UNO@ passt.
+(0)@UNO@: G10 
+(1)karaflas*: RK 
+(2)dot_hacker passt.
+(1)karaflas* passt.
+(1)karaflas*: B6 
+Ergebnis: -175 - 75
+---------------Gr.Tichukarten------------------
+(0)@UNO@ Dr GA GD B9 R8 B8 G7 R3 
+(1)karaflas* RK SK GB S10 B6 G4 S3 R2 
+(2)dot_hacker BK SD BB RB B10 R7 R6 Hu 
+(3)MontaguesCapulets G10 R9 S6 G5 R4 S2 B2 Ma 
+---------------Startkarten------------------
+(0)@UNO@ Dr GA SA GD BD RD B9 B8 R8 G7 S7 B5 S5 R3 
+(1)karaflas* RK SK GB S10 R10 G8 G6 B6 R5 S4 G4 S3 R2 G2 
+(2)dot_hacker Ph BA GK BK SD RB BB B10 S9 G9 S8 R7 R6 Hu 
+(3)MontaguesCapulets RA SB G10 R9 B7 S6 G5 B4 R4 G3 B3 S2 B2 Ma 
+Grosses Tichu: (0)@UNO@
+Schupfen:
+(0)@UNO@ gibt: karaflas*: B9 - dot_hacker: Dr - MontaguesCapulets: R3 - 
+(1)karaflas* gibt: dot_hacker: S10 - MontaguesCapulets: G8 - @UNO@: R10 - 
+(2)dot_hacker gibt: MontaguesCapulets: R6 - @UNO@: BA - karaflas*: S9 - 
+(3)MontaguesCapulets gibt: @UNO@: S2 - karaflas*: RA - dot_hacker: G3 - 
+---------------Rundenverlauf------------------
+(3)MontaguesCapulets: SB G10 R9 G8 B7 R6 G5 B4 R3 B2 Ma 
+Wunsch:A
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: B3 
+(0)@UNO@: SA 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: B8 R8 G7 S7 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: R10 
+(1)karaflas* passt.
+(2)dot_hacker: GK 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas*: RA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: B6 R5 G4 S3 R2 
+(2)dot_hacker: SD BB S10 G9 S8 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: Hu 
+(0)@UNO@: GD BD RD B5 S5 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: GA BA 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: S2 
+(1)karaflas*: S4 
+(2)dot_hacker: RB 
+(3)MontaguesCapulets passt.
+(1)karaflas*: RK 
+(2)dot_hacker: Ph 
+(3)MontaguesCapulets passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: R7 
+(3)MontaguesCapulets passt.
+(1)karaflas*: GB 
+(2)dot_hacker: BK 
+(3)MontaguesCapulets passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: B10 
+(3)MontaguesCapulets passt.
+(1)karaflas*: SK 
+(2)dot_hacker: Dr 
+(3)MontaguesCapulets passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+Drache an: (1)karaflas*
+(2)dot_hacker: G3 
+Ergebnis: 400 - 0
+---------------Gr.Tichukarten------------------
+(0)@UNO@ Ph GK RB B10 G7 B6 R4 S4 
+(1)karaflas* R10 R9 B7 G6 R5 G4 B2 Hu 
+(2)dot_hacker SA GD SD BB S10 S6 G5 B3 
+(3)MontaguesCapulets RK RD SB G8 R8 B4 G3 S2 
+---------------Startkarten------------------
+(0)@UNO@ Dr Ph BA GK BD RB G10 B10 G7 B6 R4 S4 R3 Ma 
+(1)karaflas* BK R10 R9 B8 S8 B7 R6 G6 B5 R5 G4 B2 R2 Hu 
+(2)dot_hacker SA RA SK GD SD BB S10 G9 R7 S6 G5 S5 S3 B3 
+(3)MontaguesCapulets GA RK RD SB GB B9 S9 G8 R8 S7 B4 G3 G2 S2 
+Grosses Tichu: (0)@UNO@
+Schupfen:
+(0)@UNO@ gibt: karaflas*: B6 - dot_hacker: Dr - MontaguesCapulets: G7 - 
+(1)karaflas* gibt: dot_hacker: B2 - MontaguesCapulets: BK - @UNO@: B8 - 
+(2)dot_hacker gibt: MontaguesCapulets: B3 - @UNO@: SA - karaflas*: S3 - 
+(3)MontaguesCapulets gibt: @UNO@: B4 - karaflas*: GA - dot_hacker: G3 - 
+---------------Rundenverlauf------------------
+(0)@UNO@: Ma 
+Wunsch:5
+(1)karaflas*: R5 
+(2)dot_hacker: R7 
+(3)MontaguesCapulets: RD 
+(0)@UNO@: GK 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: R3 
+(1)karaflas*: R6 
+(2)dot_hacker: G9 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: S6 
+(3)MontaguesCapulets: SB 
+(0)@UNO@: BD 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: B8 
+(1)karaflas* passt.
+(2)dot_hacker: S10 
+(3)MontaguesCapulets: GB 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker: GD 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: G3 
+(3)MontaguesCapulets: BK 
+(0)@UNO@: BA 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: B4 
+(1)karaflas* passt.
+(2)dot_hacker: BB 
+(3)MontaguesCapulets: RK 
+(0)@UNO@: SA 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: R4 
+(1)karaflas*: G6 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: G10 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: S4 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: B10 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: RB 
+(1)karaflas*: GA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: Ph 
+(1)karaflas* passt.
+(2)dot_hacker: Dr 
+(3)MontaguesCapulets passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+Drache an: (1)karaflas*
+(2)dot_hacker: B2 
+(3)MontaguesCapulets: B3 
+(1)karaflas*: R10 
+(2)dot_hacker: RA 
+(3)MontaguesCapulets passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: G5 
+(3)MontaguesCapulets passt.
+(1)karaflas*: R9 
+(2)dot_hacker: SK 
+(3)MontaguesCapulets passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(2)dot_hacker: S5 
+(3)MontaguesCapulets passt.
+(1)karaflas*: S8 
+(2)dot_hacker: SD 
+Ergebnis: 400 - 0
+---------------Gr.Tichukarten------------------
+(0)@UNO@ RK GD BB R10 S9 G8 G2 R2 
+(1)karaflas* S10 G10 R8 S7 G3 B3 Ma Hu 
+(2)dot_hacker RA B9 S8 B6 G6 G5 G4 B4 
+(3)MontaguesCapulets GA GK SD R7 G7 S6 R3 S2 
+---------------Startkarten------------------
+(0)@UNO@ RK BK RD GD BB SB GB R10 S9 G8 B7 S5 G2 R2 
+(1)karaflas* SA BD S10 G10 R8 B8 S7 B5 R5 B3 G3 B2 Ma Hu 
+(2)dot_hacker RA B10 B9 R9 S8 B6 G6 R6 G5 B4 R4 G4 S4 S3 
+(3)MontaguesCapulets Dr Ph BA GA GK SK SD RB G9 R7 G7 S6 R3 S2 
+Grosses Tichu: (1)karaflas*
+Schupfen:
+(0)@UNO@ gibt: karaflas*: G2 - dot_hacker: S5 - MontaguesCapulets: R2 - 
+(1)karaflas* gibt: dot_hacker: S7 - MontaguesCapulets: Hu - @UNO@: BD - 
+(2)dot_hacker gibt: MontaguesCapulets: S8 - @UNO@: B10 - karaflas*: S3 - 
+(3)MontaguesCapulets gibt: @UNO@: S2 - karaflas*: Ph - dot_hacker: R3 - 
+BOMBE: (2)dot_hacker 
+---------------Rundenverlauf------------------
+(1)karaflas*: Ma 
+Wunsch:K
+(2)dot_hacker: R3 
+(3)MontaguesCapulets: SK 
+(0)@UNO@ passt.
+(1)karaflas*: SA 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(1)karaflas*: B3 G3 S3 B2 G2 
+(2)dot_hacker: G6 R6 B6 G5 S5 
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(1)karaflas*: Ph G10 S10 R5 B5 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@: RD GD BD GB BB 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: R10 
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets: GA 
+(0)@UNO@ passt.
+(1)karaflas* passt.
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(3)MontaguesCapulets: Hu 
+(1)karaflas*: B8 R8 
+(2)dot_hacker: B9 R9 
+(3)MontaguesCapulets passt.
+(0)@UNO@: RK BK 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: SB B10 S9 G8 B7 
+(2)dot_hacker passt.
+(3)MontaguesCapulets passt.
+(0)@UNO@ passt.
+(0)@UNO@: S2 
+(2)dot_hacker: S7 
+(3)MontaguesCapulets: S8 
+(2)dot_hacker: RA 
+(2)dot_hacker: R4 G4 S4 B4 
+Ergebnis: 80 - 220

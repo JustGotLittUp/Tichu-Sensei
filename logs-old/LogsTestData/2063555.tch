@@ -1,0 +1,509 @@
+---------------Gr.Tichukarten------------------
+(0)ifigeneia.. SD B10 R7 B6 B5 R4 S3 B2 
+(1)HeiHu Ph GK SB S7 G5 S4 G4 B3 
+(2)Lulu_Rouge BA BD BB G7 R5 R2 S2 Ma 
+(3)#include<stdio.h> RB R10 R9 S9 G8 R8 S5 G3 
+---------------Startkarten------------------
+(0)ifigeneia.. Dr RD SD GD S10 B10 S8 R7 B6 S6 B5 R4 S3 B2 
+(1)HeiHu Ph SA RA GK SB G9 B8 S7 G6 G5 G4 S4 B3 Hu 
+(2)Lulu_Rouge BA GA RK SK BD BB G10 B9 B7 G7 R5 R2 S2 Ma 
+(3)#include<stdio.h> BK GB RB R10 R9 S9 G8 R8 R6 S5 B4 G3 R3 G2 
+Schupfen:
+(0)ifigeneia.. gibt: HeiHu: B2 - Lulu_Rouge: S3 - #include<stdio.h>: S6 - 
+(1)HeiHu gibt: Lulu_Rouge: B3 - #include<stdio.h>: Hu - ifigeneia..: S4 - 
+(2)Lulu_Rouge gibt: #include<stdio.h>: B9 - ifigeneia..: BA - HeiHu: R5 - 
+(3)#include<stdio.h> gibt: ifigeneia..: GB - HeiHu: BK - Lulu_Rouge: R3 - 
+---------------Rundenverlauf------------------
+(2)Lulu_Rouge: Ma 
+Wunsch:5
+(3)#include<stdio.h>: S5 
+Tichu: (0)ifigeneia..
+(0)ifigeneia..: B10 
+(1)HeiHu: SB 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia..: BA 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: S8 R7 B6 B5 R4 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: S4 
+(1)HeiHu: RA 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: B2 
+(2)Lulu_Rouge: G10 
+(3)#include<stdio.h>: RB 
+(0)ifigeneia.. passt.
+(1)HeiHu: SA 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia..: Dr 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+Drache an: (3)#include<stdio.h>
+(0)ifigeneia..: GB 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: SD GD RD 
+(1)HeiHu: Ph GK BK 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: G9 B8 S7 G6 G5 G4 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: R5 
+(2)Lulu_Rouge: BB 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: B3 
+(3)#include<stdio.h>: B4 
+(0)ifigeneia..: S10 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(2)Lulu_Rouge: BD 
+(3)#include<stdio.h> passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: GA 
+(3)#include<stdio.h> passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: B7 G7 
+(3)#include<stdio.h>: R8 G8 
+(2)Lulu_Rouge: RK SK 
+(3)#include<stdio.h> passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: S3 R3 R2 S2 
+Ergebnis: -35 - 35
+---------------Gr.Tichukarten------------------
+(0)ifigeneia.. Ph R10 B9 G8 S7 B6 B5 R5 
+(1)HeiHu GA RK B8 G6 B3 S3 R2 S2 
+(2)Lulu_Rouge Dr RA SA SK BK BD S9 G7 
+(3)#include<stdio.h> BB GB B10 S10 G9 S6 S5 G3 
+---------------Startkarten------------------
+(0)ifigeneia.. Ph GD RD RB SB R10 B9 G8 S7 B6 B5 R5 R4 Ma 
+(1)HeiHu GA RK SD R9 B8 S8 R7 G6 R6 B4 B3 S3 R2 S2 
+(2)Lulu_Rouge Dr RA SA BA BK SK GK BD G10 S9 G7 R3 G2 B2 
+(3)#include<stdio.h> BB GB B10 S10 G9 R8 B7 S6 S5 G5 G4 S4 G3 Hu 
+Grosses Tichu: (0)ifigeneia..
+Schupfen:
+(0)ifigeneia.. gibt: HeiHu: RB - Lulu_Rouge: GD - #include<stdio.h>: B5 - 
+(1)HeiHu gibt: Lulu_Rouge: R2 - #include<stdio.h>: GA - ifigeneia..: S2 - 
+(2)Lulu_Rouge gibt: #include<stdio.h>: B2 - ifigeneia..: Dr - HeiHu: G2 - 
+(3)#include<stdio.h> gibt: ifigeneia..: G4 - HeiHu: Hu - Lulu_Rouge: G5 - 
+---------------Rundenverlauf------------------
+(0)ifigeneia..: RD SB R10 B9 G8 S7 B6 R5 G4 Ph S2 Ma 
+Wunsch:A
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: R4 
+(1)HeiHu: R7 
+(2)Lulu_Rouge: BA 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: R3 
+(3)#include<stdio.h>: GA 
+(0)ifigeneia..: Dr 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+Drache an: (3)#include<stdio.h>
+(1)HeiHu: Hu 
+(3)#include<stdio.h>: GB BB S10 B10 
+(1)HeiHu passt.
+(2)Lulu_Rouge: SK GK GD BD 
+(3)#include<stdio.h> passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: G5 
+(3)#include<stdio.h> passt.
+(1)HeiHu: R9 
+(2)Lulu_Rouge: G10 
+(3)#include<stdio.h> passt.
+(1)HeiHu: RK 
+(2)Lulu_Rouge: SA 
+(3)#include<stdio.h> passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: G7 
+(3)#include<stdio.h> passt.
+(1)HeiHu: SD 
+(2)Lulu_Rouge: BK 
+(3)#include<stdio.h> passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: R2 
+(3)#include<stdio.h> passt.
+(1)HeiHu: RB 
+(2)Lulu_Rouge: RA 
+(3)#include<stdio.h> passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: S9 
+Ergebnis: 400 - 0
+---------------Gr.Tichukarten------------------
+(0)ifigeneia.. Dr SD G8 G7 B7 S5 R4 R2 
+(1)HeiHu BA GK SK GB B10 S6 B2 S2 
+(2)Lulu_Rouge Ph SB B9 S8 R7 G3 S3 Hu 
+(3)#include<stdio.h> SA G9 R8 B8 G5 S4 B4 B3 
+---------------Startkarten------------------
+(0)ifigeneia.. Dr RA SD S9 R9 G8 B7 G7 S7 S5 B5 G4 R4 R2 
+(1)HeiHu BA GK SK GD BB GB G10 R10 B10 S6 B6 B2 S2 G2 
+(2)Lulu_Rouge Ph BD RD SB S10 B9 S8 R7 G6 R5 S3 G3 Ma Hu 
+(3)#include<stdio.h> SA GA RK BK RB G9 R8 B8 R6 G5 B4 S4 R3 B3 
+Schupfen:
+(0)ifigeneia.. gibt: HeiHu: R2 - Lulu_Rouge: Dr - #include<stdio.h>: G8 - 
+(1)HeiHu gibt: Lulu_Rouge: S6 - #include<stdio.h>: SK - ifigeneia..: B6 - 
+(2)Lulu_Rouge gibt: #include<stdio.h>: Hu - ifigeneia..: RD - HeiHu: G3 - 
+(3)#include<stdio.h> gibt: ifigeneia..: R6 - HeiHu: G9 - Lulu_Rouge: G5 - 
+BOMBE: (1)HeiHu 
+---------------Rundenverlauf------------------
+Tichu: (2)Lulu_Rouge
+(2)Lulu_Rouge: Ma 
+Wunsch:A
+(3)#include<stdio.h>: SA 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge: Ph 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: G6 S6 R5 G5 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: BD SB S10 B9 S8 R7 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: S3 
+(3)#include<stdio.h>: GA 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge: Dr 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+Drache an: (3)#include<stdio.h>
+(3)#include<stdio.h>: R8 B8 G8 B4 S4 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(3)#include<stdio.h> passt.
+(3)#include<stdio.h>: RK BK SK R3 B3 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(3)#include<stdio.h> passt.
+(3)#include<stdio.h>: Hu 
+(1)HeiHu: G3 
+(3)#include<stdio.h>: RB 
+(0)ifigeneia..: RA 
+(1)HeiHu: R2 B2 S2 G2 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: BB 
+(0)ifigeneia..: SD 
+(1)HeiHu: BA 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: R10 B10 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: GK GD GB G10 G9 
+Ergebnis: 95 - 105
+---------------Gr.Tichukarten------------------
+(0)ifigeneia.. S10 B8 S8 S7 R7 B4 S2 Ma 
+(1)HeiHu Dr S9 G8 B7 S5 R4 G3 Hu 
+(2)Lulu_Rouge RD GB BB R10 R9 G6 G4 S4 
+(3)#include<stdio.h> RA BK BD SD SB G9 B9 R8 
+---------------Startkarten------------------
+(0)ifigeneia.. GD S10 B10 B8 S8 S7 R7 B6 B5 G5 B4 B3 S2 Ma 
+(1)HeiHu Dr Ph GA RK RB G10 S9 G8 B7 S5 R5 R4 G3 Hu 
+(2)Lulu_Rouge SA BA SK RD BB GB R10 R9 G7 S6 G6 S4 G4 S3 
+(3)#include<stdio.h> RA BK GK SD BD SB B9 G9 R8 R6 R3 G2 B2 R2 
+Grosses Tichu: (3)#include<stdio.h>
+Schupfen:
+(0)ifigeneia.. gibt: HeiHu: S8 - Lulu_Rouge: R7 - #include<stdio.h>: G5 - 
+(1)HeiHu gibt: Lulu_Rouge: G3 - #include<stdio.h>: Dr - ifigeneia..: R5 - 
+(2)Lulu_Rouge gibt: #include<stdio.h>: G7 - ifigeneia..: SA - HeiHu: S3 - 
+(3)#include<stdio.h> gibt: ifigeneia..: R6 - HeiHu: R8 - Lulu_Rouge: R3 - 
+---------------Rundenverlauf------------------
+(0)ifigeneia..: B8 S7 R6 R5 B4 B3 S2 Ma 
+(1)HeiHu: G10 S9 S8 B7 Ph S5 R4 S3 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: Hu 
+(3)#include<stdio.h>: G5 
+(0)ifigeneia..: B6 
+(1)HeiHu: G8 
+(2)Lulu_Rouge: GB 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu: RK 
+(2)Lulu_Rouge: BA 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: S6 G6 
+(3)#include<stdio.h>: G9 B9 
+(0)ifigeneia..: B10 S10 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h>: GK BK 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(3)#include<stdio.h>: G7 
+(0)ifigeneia..: GD 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h>: RA 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(3)#include<stdio.h>: SB 
+(0)ifigeneia..: SA 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h>: Dr 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+Drache an: (2)Lulu_Rouge
+(3)#include<stdio.h>: BD SD G2 B2 R2 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(0)ifigeneia..: B5 
+(1)HeiHu: R8 
+(2)Lulu_Rouge: R10 
+(1)HeiHu: GA 
+(2)Lulu_Rouge passt.
+(1)HeiHu passt.
+(1)HeiHu: RB 
+Ergebnis: 0 - 300
+---------------Gr.Tichukarten------------------
+(0)ifigeneia.. GA S10 G7 G5 S5 R5 R4 B3 
+(1)HeiHu Dr Ph BD GD SB BB B7 R3 
+(2)Lulu_Rouge RA RD GB G9 S7 S2 G2 R2 
+(3)#include<stdio.h> RK B10 R9 R7 B5 G4 B4 S3 
+---------------Startkarten------------------
+(0)ifigeneia.. GA GK SD S10 G10 R8 S8 G7 R5 G5 S5 S4 R4 B3 
+(1)HeiHu Dr Ph SK BK BD GD SB BB R10 S9 B8 B7 R3 B2 
+(2)Lulu_Rouge RA BA SA RD GB G9 S7 B6 G6 S6 G3 S2 G2 R2 
+(3)#include<stdio.h> RK RB B10 B9 R9 G8 R7 R6 B5 G4 B4 S3 Ma Hu 
+Schupfen:
+(0)ifigeneia.. gibt: HeiHu: G7 - Lulu_Rouge: GK - #include<stdio.h>: B3 - 
+(1)HeiHu gibt: Lulu_Rouge: B2 - #include<stdio.h>: SB - ifigeneia..: R3 - 
+(2)Lulu_Rouge gibt: #include<stdio.h>: S7 - ifigeneia..: RA - HeiHu: G3 - 
+(3)#include<stdio.h> gibt: ifigeneia..: B4 - HeiHu: Hu - Lulu_Rouge: B9 - 
+BOMBE: (2)Lulu_Rouge 
+---------------Rundenverlauf------------------
+(3)#include<stdio.h>: Ma 
+Wunsch:2
+(0)ifigeneia..: R3 
+Tichu: (2)Lulu_Rouge
+(2)Lulu_Rouge: S2 G2 R2 B2 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: GB 
+(3)#include<stdio.h>: RK 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge: SA 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu: Ph 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: Hu 
+(3)#include<stdio.h>: S7 R6 B5 G4 S3 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(3)#include<stdio.h>: SB B10 R9 G8 R7 
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(3)#include<stdio.h>: B3 
+(0)ifigeneia..: GA 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: S4 R4 B4 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: S10 G10 R5 G5 S5 
+(1)HeiHu passt.
+(2)Lulu_Rouge: G9 B9 B6 G6 S6 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: BA 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu: Dr 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+Drache an: (2)Lulu_Rouge
+(1)HeiHu: G3 
+(2)Lulu_Rouge: GK 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: RD 
+(3)#include<stdio.h> passt.
+(0)ifigeneia..: RA 
+(1)HeiHu passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: R8 S8 
+(1)HeiHu: BD GD 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: SK BK 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: BB R10 S9 B8 B7 
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(1)HeiHu passt.
+(1)HeiHu: G7 
+(3)#include<stdio.h>: RB 
+Ergebnis: 170 - 30
+---------------Gr.Tichukarten------------------
+(0)ifigeneia.. Dr Ph RK GB B10 B5 R4 G3 
+(1)HeiHu BD R9 S8 R7 S7 R6 S5 G4 
+(2)Lulu_Rouge B9 B7 R5 B4 S4 S2 Ma Hu 
+(3)#include<stdio.h> RA SD GD BB G10 G9 B6 R3 
+---------------Startkarten------------------
+(0)ifigeneia.. Dr Ph BA RK GB R10 B10 S9 B8 B5 R4 G3 S3 B2 
+(1)HeiHu BD RD SB S10 R9 S8 G8 R7 S7 R6 G6 G5 S5 G4 
+(2)Lulu_Rouge GA BK SK B9 G7 B7 R5 B4 S4 B3 S2 G2 Ma Hu 
+(3)#include<stdio.h> RA SA GK SD GD BB RB G10 G9 R8 S6 B6 R3 R2 
+Grosses Tichu: (3)#include<stdio.h>
+Grosses Tichu: (0)ifigeneia..
+Schupfen:
+(0)ifigeneia.. gibt: HeiHu: B8 - Lulu_Rouge: S9 - #include<stdio.h>: B5 - 
+(1)HeiHu gibt: Lulu_Rouge: R6 - #include<stdio.h>: BD - ifigeneia..: S5 - 
+(2)Lulu_Rouge gibt: #include<stdio.h>: G2 - ifigeneia..: GA - HeiHu: S2 - 
+(3)#include<stdio.h> gibt: ifigeneia..: R2 - HeiHu: RB - Lulu_Rouge: R3 - 
+---------------Rundenverlauf------------------
+(2)Lulu_Rouge: Ma 
+Wunsch:2
+(3)#include<stdio.h>: G2 
+(0)ifigeneia..: S5 
+(1)HeiHu passt.
+(2)Lulu_Rouge: S9 
+(3)#include<stdio.h>: RA 
+(0)ifigeneia..: Dr 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+Drache an: (1)HeiHu
+(0)ifigeneia..: R4 
+(1)HeiHu passt.
+(2)Lulu_Rouge: B9 
+(3)#include<stdio.h>: SA 
+(0)ifigeneia..: Ph 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: GB 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h>: GK 
+(0)ifigeneia..: BA 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: R10 
+(1)HeiHu: SB 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia..: RK 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: B10 
+(1)HeiHu: RD 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia..: GA 
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(0)ifigeneia.. passt.
+(0)ifigeneia..: G3 S3 R2 B2 
+(1)HeiHu passt.
+(2)Lulu_Rouge: S4 B4 B3 R3 
+(3)#include<stdio.h> passt.
+(1)HeiHu: G8 B8 S7 R7 
+(2)Lulu_Rouge passt.
+(3)#include<stdio.h> passt.
+(1)HeiHu passt.
+(1)HeiHu: S2 
+(2)Lulu_Rouge: R5 
+(3)#include<stdio.h>: GD 
+(1)HeiHu passt.
+(2)Lulu_Rouge: SK 
+(3)#include<stdio.h> passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: Hu 
+(1)HeiHu: G4 
+(2)Lulu_Rouge: R6 
+(3)#include<stdio.h>: BD 
+(1)HeiHu passt.
+(2)Lulu_Rouge: BK 
+(3)#include<stdio.h> passt.
+(1)HeiHu passt.
+(2)Lulu_Rouge passt.
+(2)Lulu_Rouge: G7 B7 
+Ergebnis: 400 - -200

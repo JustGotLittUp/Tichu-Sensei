@@ -1,0 +1,731 @@
+---------------Gr.Tichukarten------------------
+(0)spi_ros GA BK SK GD G10 R6 G4 B2 
+(1)nonts BA RD R10 G6 R5 B5 R3 Hu 
+(2)chatlin Ph GK BB R9 R8 S5 B3 S3 
+(3)BlueVageros RK RB S10 B10 S7 B6 G5 R4 
+---------------Startkarten------------------
+(0)spi_ros GA BK SK GD SB G10 B9 B8 R7 R6 G4 B2 R2 Ma 
+(1)nonts BA RD BD GB R10 S8 G6 B5 R5 S4 R3 G2 S2 Hu 
+(2)chatlin Dr Ph GK SD BB R9 G9 G8 R8 S6 S5 G3 B3 S3 
+(3)BlueVageros SA RA RK RB S10 B10 S9 G7 B7 S7 B6 G5 B4 R4 
+Schupfen:
+(0)spi_ros gibt: nonts: R2 - chatlin: G4 - BlueVageros: B2 - 
+(1)nonts gibt: chatlin: G6 - BlueVageros: R10 - spi_ros: S8 - 
+(2)chatlin gibt: BlueVageros: S5 - spi_ros: GK - nonts: S6 - 
+(3)BlueVageros gibt: spi_ros: B6 - nonts: SA - chatlin: G5 - 
+---------------Rundenverlauf------------------
+(0)spi_ros: Ma 
+Wunsch:3
+(1)nonts: R3 
+(2)chatlin: G4 
+(3)BlueVageros: S5 
+(0)spi_ros: S8 
+(1)nonts: GB 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros: GA 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: GD SB G10 B9 B8 R7 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: BK SK GK B6 R6 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(1)nonts: Hu 
+(3)BlueVageros: B2 
+(1)nonts: S6 
+(2)chatlin: BB 
+(3)BlueVageros: RK 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: G7 B7 S7 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: R10 S10 B10 B4 R4 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: S9 
+(1)nonts: RD 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(1)nonts passt.
+(1)nonts: B5 R5 R2 G2 S2 
+(2)chatlin: G8 R8 G3 B3 S3 
+(3)BlueVageros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: G5 
+(3)BlueVageros: RB 
+(1)nonts: BD 
+(2)chatlin passt.
+(3)BlueVageros: RA 
+(1)nonts passt.
+(2)chatlin passt.
+(1)nonts: BA SA 
+(2)chatlin passt.
+(1)nonts passt.
+(1)nonts: S4 
+Ergebnis: 55 - 45
+---------------Gr.Tichukarten------------------
+(0)spi_ros Dr BA SK S10 G9 B6 B5 G5 
+(1)nonts GA RA RK G10 R9 B8 G3 Ma 
+(2)chatlin BK GK SD B10 B9 G7 S6 Hu 
+(3)BlueVageros GD BB G8 R5 R4 G4 R3 B2 
+---------------Startkarten------------------
+(0)spi_ros Dr BA SK BD RB S10 G9 B7 B6 G5 B5 B3 R2 S2 
+(1)nonts GA RA SA RK RD GB G10 R9 B8 R8 R6 B4 G3 Ma 
+(2)chatlin Ph GK BK SD SB B10 R10 B9 G7 R7 S7 S6 S4 Hu 
+(3)BlueVageros GD BB S9 S8 G8 G6 S5 R5 R4 G4 R3 S3 B2 G2 
+Grosses Tichu: (1)nonts
+Grosses Tichu: (0)spi_ros
+Schupfen:
+(0)spi_ros gibt: nonts: B6 - chatlin: B7 - BlueVageros: B3 - 
+(1)nonts gibt: chatlin: B4 - BlueVageros: R6 - spi_ros: G3 - 
+(2)chatlin gibt: BlueVageros: S6 - spi_ros: Ph - nonts: S4 - 
+(3)BlueVageros gibt: spi_ros: G8 - nonts: GD - chatlin: S8 - 
+BOMBE: (2)chatlin 
+---------------Rundenverlauf------------------
+(1)nonts: S4 
+(2)chatlin passt.
+(3)BlueVageros: S9 
+(0)spi_ros: BA 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: G3 
+(1)nonts: B6 
+(2)chatlin passt.
+(3)BlueVageros: BB 
+(0)spi_ros passt.
+(1)nonts: RD 
+(2)chatlin: BK 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts: RA 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros: Dr 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+Drache an: (3)BlueVageros
+(0)spi_ros: SK BD RB S10 G9 G8 
+(1)nonts: SA RK GD GB G10 R9 
+(2)chatlin: G7 R7 S7 B7 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: Hu 
+(0)spi_ros: B5 G5 Ph R2 S2 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(1)nonts: Ma 
+Wunsch:K
+(2)chatlin: GK 
+(3)BlueVageros passt.
+(1)nonts: GA 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(1)nonts passt.
+(1)nonts: R8 B8 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(2)chatlin: SD SB B10 B9 S8 
+(3)BlueVageros passt.
+(2)chatlin passt.
+(2)chatlin: B4 
+(3)BlueVageros: S6 
+(2)chatlin: R10 
+Ergebnis: 290 - -190
+---------------Gr.Tichukarten------------------
+(0)spi_ros RB GB S10 S6 R6 B6 G5 R4 
+(1)nonts Ph BK BB G10 G9 R7 R2 Hu 
+(2)chatlin Dr BA RD S9 B8 G7 S4 G3 
+(3)BlueVageros B9 R8 S8 R5 G4 R3 B3 S3 
+---------------Startkarten------------------
+(0)spi_ros SA RK RB GB B10 R10 S10 R9 B6 S6 R6 G5 R4 S2 
+(1)nonts Ph GA GK BK SD BB G10 G9 G8 R7 G6 B5 R2 Hu 
+(2)chatlin Dr BA RD BD SB S9 B8 G7 S7 S4 G3 G2 B2 Ma 
+(3)BlueVageros RA SK GD B9 S8 R8 B7 S5 R5 B4 G4 R3 B3 S3 
+Grosses Tichu: (1)nonts
+Schupfen:
+(0)spi_ros gibt: nonts: S2 - chatlin: SA - BlueVageros: G5 - 
+(1)nonts gibt: chatlin: R2 - BlueVageros: BK - spi_ros: Hu - 
+(2)chatlin gibt: BlueVageros: S4 - spi_ros: Ma - nonts: G3 - 
+(3)BlueVageros gibt: spi_ros: G4 - nonts: RA - chatlin: B4 - 
+---------------Rundenverlauf------------------
+(0)spi_ros: Hu 
+(2)chatlin: S7 G7 G2 B2 R2 
+(3)BlueVageros: S8 R8 R3 B3 S3 
+(0)spi_ros: B6 S6 R6 G4 R4 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: RB GB B10 R10 S10 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: Ma 
+Wunsch:2
+(1)nonts: S2 
+(2)chatlin: B4 
+(3)BlueVageros: B7 
+(0)spi_ros: R9 
+(1)nonts: GA 
+(2)chatlin: Dr 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+Drache an: (3)BlueVageros
+(2)chatlin: B8 
+(3)BlueVageros: SK 
+(0)spi_ros passt.
+(1)nonts: RA 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: GK SD BB G10 G9 G8 R7 G6 B5 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: Ph G3 
+(2)chatlin passt.
+(3)BlueVageros: S5 R5 
+(0)spi_ros passt.
+(2)chatlin: BD RD 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(2)chatlin passt.
+(2)chatlin: S9 
+(3)BlueVageros: GD 
+(0)spi_ros: RK 
+(2)chatlin: SA 
+(3)BlueVageros passt.
+(2)chatlin passt.
+(2)chatlin: BA 
+(3)BlueVageros passt.
+(2)chatlin passt.
+(2)chatlin: SB 
+Ergebnis: 40 - 260
+---------------Gr.Tichukarten------------------
+(0)spi_ros RA BB RB R8 G8 B8 S4 S3 
+(1)nonts Ph BD S10 B10 G6 S5 B4 Hu 
+(2)chatlin SA BA GD GB R10 S7 R6 R5 
+(3)BlueVageros Dr GA GK SD B9 G7 R4 B3 
+---------------Startkarten------------------
+(0)spi_ros RA SK RB BB SB B8 S8 R8 G8 S4 S3 G3 B2 S2 
+(1)nonts Ph BK BD B10 S10 G9 B7 G6 B6 S5 B4 G2 R2 Hu 
+(2)chatlin SA BA GD GB R10 S9 R9 S7 R6 S6 B5 R5 G4 Ma 
+(3)BlueVageros Dr GA GK RK RD SD G10 B9 R7 G7 G5 R4 B3 R3 
+Grosses Tichu: (3)BlueVageros
+Schupfen:
+(0)spi_ros gibt: nonts: SK - chatlin: RA - BlueVageros: S4 - 
+(1)nonts gibt: chatlin: B4 - BlueVageros: Ph - spi_ros: S5 - 
+(2)chatlin gibt: BlueVageros: G4 - spi_ros: S9 - nonts: S7 - 
+(3)BlueVageros gibt: spi_ros: R4 - nonts: B9 - chatlin: G5 - 
+BOMBE: (0)spi_ros 
+---------------Rundenverlauf------------------
+(2)chatlin: Ma 
+Wunsch:K
+(3)BlueVageros: RK 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin: RA 
+(3)BlueVageros: Dr 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+Drache an: (2)chatlin
+(3)BlueVageros: G10 
+(0)spi_ros passt.
+(1)nonts: BD 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: Hu 
+(3)BlueVageros: G4 S4 B3 R3 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin: R6 S6 B5 R5 
+(3)BlueVageros: Ph GK SD RD 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: GA 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: R7 G7 
+(0)spi_ros passt.
+(1)nonts: BK SK 
+(2)chatlin passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: B7 S7 G6 B6 
+(2)chatlin passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: S10 B10 G9 B9 
+(2)chatlin passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: G2 R2 
+Ergebnis: 0 - 400
+---------------Gr.Tichukarten------------------
+(0)spi_ros RA BA B10 G9 G6 S5 G5 B2 
+(1)nonts GK SD R10 S4 G4 S3 R3 Ma 
+(2)chatlin RK RB S9 G8 R8 R7 S7 B6 
+(3)BlueVageros Dr BK RD SB B5 B4 G2 Hu 
+---------------Startkarten------------------
+(0)spi_ros RA BA SA GD B10 G10 R9 G9 S8 G6 R6 S5 G5 B2 
+(1)nonts GK SD BD BB R10 B9 B8 B7 R5 S4 G4 S3 R3 Ma 
+(2)chatlin GA SK RK GB RB S10 S9 G8 R8 R7 S7 B6 S6 R2 
+(3)BlueVageros Dr Ph BK RD SB G7 B5 B4 R4 B3 G3 G2 S2 Hu 
+Grosses Tichu: (3)BlueVageros
+Schupfen:
+(0)spi_ros gibt: nonts: B2 - chatlin: GD - BlueVageros: S8 - 
+(1)nonts gibt: chatlin: S4 - BlueVageros: GK - spi_ros: S3 - 
+(2)chatlin gibt: BlueVageros: R2 - spi_ros: GB - nonts: B6 - 
+(3)BlueVageros gibt: spi_ros: G7 - nonts: Hu - chatlin: B5 - 
+---------------Rundenverlauf------------------
+(1)nonts: Hu 
+(3)BlueVageros: R2 
+(0)spi_ros: S3 
+(1)nonts: SD 
+(2)chatlin: SK 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: GA RK GD RB S10 S9 G8 R7 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: R8 S7 S6 B5 S4 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts: BD BB R10 B9 B8 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: B7 B6 R5 G4 R3 B2 Ma 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(3)BlueVageros: R4 B4 G3 B3 G2 S2 
+(0)spi_ros passt.
+(3)BlueVageros passt.
+(3)BlueVageros: S8 
+(0)spi_ros: BA 
+(3)BlueVageros: Dr 
+(0)spi_ros passt.
+(3)BlueVageros passt.
+Drache an: (2)chatlin
+(3)BlueVageros: BK GK Ph RD 
+(0)spi_ros passt.
+(3)BlueVageros passt.
+(3)BlueVageros: SB 
+Ergebnis: 55 - -155
+---------------Gr.Tichukarten------------------
+(0)spi_ros SK S8 B8 S7 R6 R5 B3 Hu 
+(1)nonts Ph BA RK BD R9 G7 G5 S4 
+(2)chatlin RA GA SB G8 R8 R4 B4 G3 
+(3)BlueVageros SA GD GB B7 R7 B5 R3 Ma 
+---------------Startkarten------------------
+(0)spi_ros Dr SK R10 S9 B8 S8 S7 B6 R6 R5 B3 R2 S2 Hu 
+(1)nonts Ph BA RK GK BD RB S10 R9 G7 G5 S4 G4 S3 B2 
+(2)chatlin RA GA SD BB SB G9 B9 G8 R8 G6 B4 R4 G3 G2 
+(3)BlueVageros SA BK GD RD GB G10 B10 B7 R7 S6 S5 B5 R3 Ma 
+Grosses Tichu: (1)nonts
+Schupfen:
+(0)spi_ros gibt: nonts: R2 - chatlin: SK - BlueVageros: R6 - 
+(1)nonts gibt: chatlin: B2 - BlueVageros: GK - spi_ros: G4 - 
+(2)chatlin gibt: BlueVageros: G2 - spi_ros: SD - nonts: G3 - 
+(3)BlueVageros gibt: spi_ros: S6 - nonts: SA - chatlin: R3 - 
+---------------Rundenverlauf------------------
+(3)BlueVageros: Ma 
+Wunsch:4
+(0)spi_ros: G4 
+(1)nonts: BA 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros: Dr 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+Drache an: (3)BlueVageros
+(0)spi_ros: Hu 
+(2)chatlin: B2 
+(3)BlueVageros: R6 
+(0)spi_ros: B8 
+(1)nonts: SA 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: G7 Ph G5 S4 G3 R2 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros: R10 S9 S8 S7 S6 R5 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: SD 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: B6 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros: GB 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin: SK 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: R3 
+(3)BlueVageros: RD 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: B7 R7 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin: BB SB 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: G9 B9 G8 R8 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: B4 R4 
+(3)BlueVageros: S5 B5 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin: RA GA 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: G6 
+(3)BlueVageros: GD 
+(0)spi_ros passt.
+(1)nonts passt.
+(3)BlueVageros passt.
+(3)BlueVageros: G10 B10 
+(0)spi_ros passt.
+(1)nonts passt.
+(3)BlueVageros passt.
+(3)BlueVageros: GK BK 
+(0)spi_ros passt.
+(1)nonts passt.
+(3)BlueVageros passt.
+(3)BlueVageros: G2 
+(0)spi_ros: B3 
+(1)nonts: RB 
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: S10 
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: BD 
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: RK 
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: R9 
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: S3 
+Ergebnis: 15 - -115
+---------------Gr.Tichukarten------------------
+(0)spi_ros GK RK RB S8 B7 R6 R5 G4 
+(1)nonts Dr BA SK R10 B10 S6 B5 G3 
+(2)chatlin Ph SA BB G7 S5 B4 S3 Hu 
+(3)BlueVageros BD SB G10 B9 G9 R8 B6 B2 
+---------------Startkarten------------------
+(0)spi_ros GA RK GK GD RB S10 S8 G8 B7 G6 R6 R5 G4 S2 
+(1)nonts Dr BA SK R10 B10 B8 S7 S6 B5 S4 R3 G3 B3 Ma 
+(2)chatlin Ph SA RA SD RD BB GB G7 R7 S5 B4 R4 S3 Hu 
+(3)BlueVageros BK BD SB G10 G9 B9 R9 S9 R8 B6 G5 B2 R2 G2 
+Grosses Tichu: (1)nonts
+Schupfen:
+(0)spi_ros gibt: nonts: G8 - chatlin: S2 - BlueVageros: R6 - 
+(1)nonts gibt: chatlin: B10 - BlueVageros: SK - spi_ros: R10 - 
+(2)chatlin gibt: BlueVageros: S3 - spi_ros: Ph - nonts: Hu - 
+(3)BlueVageros gibt: spi_ros: B6 - nonts: BK - chatlin: G5 - 
+BOMBE: (3)BlueVageros 
+---------------Rundenverlauf------------------
+(1)nonts: Hu 
+(3)BlueVageros: S3 
+(0)spi_ros: G6 
+(1)nonts: G8 
+(2)chatlin: B10 
+(3)BlueVageros: SB 
+(0)spi_ros: RK 
+(1)nonts: BA 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros: Ph 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: S8 B7 B6 R5 G4 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: GA GK GD RB R10 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros: G9 B9 R9 S9 
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: B2 R2 
+(0)spi_ros passt.
+(1)nonts: R3 G3 
+(2)chatlin: R7 G7 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: G5 S5 B4 R4 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: SD RD BB GB 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: SA RA 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: S2 
+(3)BlueVageros: SK 
+(0)spi_ros passt.
+(1)nonts: Dr 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+Drache an: (0)spi_ros
+(1)nonts: BK 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: B8 S7 S6 B5 S4 B3 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(1)nonts: Ma 
+(3)BlueVageros: R6 
+(0)spi_ros: S10 
+Ergebnis: 85 - -185
+---------------Gr.Tichukarten------------------
+(0)spi_ros Dr GA GK SK R9 G6 G3 Hu 
+(1)nonts BK BB G10 S9 G9 S7 R6 B3 
+(2)chatlin SA RK RD BD SB G7 S3 R2 
+(3)BlueVageros SD GB B10 B8 S8 R7 R4 Ma 
+---------------Startkarten------------------
+(0)spi_ros Dr Ph GA RA GK SK RB R9 R8 B7 G6 R5 G3 Hu 
+(1)nonts BK BB G10 S10 G9 S9 S7 R6 S5 B4 R3 B3 S2 B2 
+(2)chatlin SA BA RK BD GD RD SB R10 G7 G5 B5 G4 S3 R2 
+(3)BlueVageros SD GB B10 B9 S8 G8 B8 R7 B6 S6 R4 S4 G2 Ma 
+Grosses Tichu: (0)spi_ros
+Schupfen:
+(0)spi_ros gibt: nonts: Hu - chatlin: Dr - BlueVageros: G3 - 
+(1)nonts gibt: chatlin: B2 - BlueVageros: BK - spi_ros: B3 - 
+(2)chatlin gibt: BlueVageros: R2 - spi_ros: SA - nonts: S3 - 
+(3)BlueVageros gibt: spi_ros: R4 - nonts: G2 - chatlin: S4 - 
+---------------Rundenverlauf------------------
+(3)BlueVageros: Ma 
+Wunsch:5
+(0)spi_ros: R5 
+(1)nonts passt.
+(2)chatlin: G7 
+(3)BlueVageros passt.
+(0)spi_ros: R8 
+(1)nonts: BB 
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros: SK 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: R4 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros: B6 
+(0)spi_ros: B7 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros: S8 
+(0)spi_ros: R9 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: RB 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: G6 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros: B8 
+(0)spi_ros: GK 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: B3 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: GA RA 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: SA 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(0)spi_ros: Ph 
+(1)nonts: S9 
+(2)chatlin: RD 
+(3)BlueVageros: BK 
+(1)nonts passt.
+(2)chatlin passt.
+(3)BlueVageros passt.
+(3)BlueVageros: R2 
+(1)nonts: G9 
+(2)chatlin: GD 
+(3)BlueVageros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: BA RK BD SB R10 
+(3)BlueVageros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: B2 
+(3)BlueVageros: G3 
+(1)nonts passt.
+(2)chatlin: Dr 
+(3)BlueVageros passt.
+(1)nonts passt.
+(2)chatlin passt.
+Drache an: (1)nonts
+(2)chatlin: G5 B5 G4 S4 
+Ergebnis: 400 - 0
+---------------Gr.Tichukarten------------------
+(0)spi_ros Dr SB S9 B7 R4 S3 B2 Ma 
+(1)nonts SA SD BB G10 S8 S7 R6 B5 
+(2)chatlin GA RA BK RD S10 R8 B3 R2 
+(3)BlueVageros BA GK BD B9 R9 S5 S4 G2 
+---------------Startkarten------------------
+(0)spi_ros Dr SB B10 S9 B8 B7 R7 R4 S3 R3 G3 S2 B2 Ma 
+(1)nonts SA SD BB G10 R10 S8 G8 S7 R6 S6 B6 B5 R5 B4 
+(2)chatlin Ph RA GA BK GD RD GB S10 R8 G7 G6 G5 B3 R2 
+(3)BlueVageros BA GK RK SK BD RB R9 G9 B9 S5 G4 S4 G2 Hu 
+Schupfen:
+(0)spi_ros gibt: nonts: R4 - chatlin: Ma - BlueVageros: B7 - 
+(1)nonts gibt: chatlin: B4 - BlueVageros: BB - spi_ros: S7 - 
+(2)chatlin gibt: BlueVageros: R2 - spi_ros: RD - nonts: B3 - 
+(3)BlueVageros gibt: spi_ros: G2 - nonts: RB - chatlin: S5 - 
+---------------Rundenverlauf------------------
+Tichu: (2)chatlin
+(2)chatlin: Ma 
+Wunsch:2
+(3)BlueVageros: R2 
+(0)spi_ros: G3 
+(1)nonts: RB 
+(2)chatlin: RA 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: GA BK GD GB S10 Ph R8 G7 G6 G5 B4 
+(3)BlueVageros passt.
+(0)spi_ros passt.
+(1)nonts passt.
+(2)chatlin passt.
+(2)chatlin: S5 
+(3)BlueVageros: B7 
+(0)spi_ros: RD 
+(1)nonts passt.
+(3)BlueVageros: BA 
+(0)spi_ros passt.
+(1)nonts passt.
+(3)BlueVageros passt.
+(3)BlueVageros: Hu 
+(1)nonts: R4 
+(3)BlueVageros: BB 
+(0)spi_ros passt.
+(1)nonts passt.
+(3)BlueVageros passt.
+(3)BlueVageros: R9 G9 B9 
+(0)spi_ros passt.
+(1)nonts passt.
+(3)BlueVageros passt.
+(3)BlueVageros: GK RK SK S4 G4 
+(0)spi_ros passt.
+(1)nonts passt.
+(3)BlueVageros passt.
+(3)BlueVageros: BD 
+(0)spi_ros passt.
+(1)nonts passt.
+(0)spi_ros: R7 
+(1)nonts passt.
+(0)spi_ros passt.
+(0)spi_ros: SB B10 S9 B8 S7 
+(1)nonts passt.
+(0)spi_ros passt.
+(0)spi_ros: Dr 
+(1)nonts passt.
+(0)spi_ros passt.
+Drache an: (3)BlueVageros
+(0)spi_ros: R3 S3 S2 B2 G2 
+Ergebnis: 140 - 60
