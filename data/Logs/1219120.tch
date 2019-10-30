@@ -1,0 +1,841 @@
+---------------Gr.Tichukarten------------------
+(0)fontas Ph BB GB B8 S7 R5 S4 R2 
+(1)sal-matis GA BK SB R10 R9 R8 G3 S2 
+(2)glkos90 SK GD G10 B9 S5 B4 G4 B3 
+(3)damned_tichu B10 G9 S8 S6 R4 S3 G2 Ma 
+---------------Startkarten------------------
+(0)fontas Ph BD RD BB GB S10 B8 G8 S7 G5 B5 R5 S4 R2 
+(1)sal-matis GA SA GK BK SB R10 R9 R8 R7 B6 R6 R3 G3 S2 
+(2)glkos90 BA SK GD RB G10 B9 B7 G6 S5 B4 G4 B3 B2 Hu 
+(3)damned_tichu Dr RA RK SD B10 S9 G9 S8 G7 S6 R4 S3 G2 Ma 
+Schupfen:
+(0)fontas gibt: sal-matis: S4 - glkos90: RD - damned_tichu: R2 - 
+(1)sal-matis gibt: glkos90: R3 - damned_tichu: SB - fontas: G3 - 
+(2)glkos90 gibt: damned_tichu: B4 - fontas: BA - sal-matis: B2 - 
+(3)damned_tichu gibt: fontas: R4 - sal-matis: Dr - glkos90: S3 - 
+BOMBE: (1)sal-matis 
+---------------Rundenverlauf------------------
+(3)damned_tichu: Ma 
+Wunsch:4
+(0)fontas: R4 
+Tichu: (1)sal-matis
+(1)sal-matis: B6 
+(2)glkos90 passt.
+(3)damned_tichu: G9 
+(0)fontas: GB 
+(1)sal-matis: GA 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: S4 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas: G8 
+(1)sal-matis: SA 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: B2 S2 
+(2)glkos90: B3 R3 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis: BK GK 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: Dr 
+(1)sal-matis: R10 R9 R8 R7 R6 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(2)glkos90: B7 G6 S5 G4 S3 
+(3)damned_tichu passt.
+(0)fontas passt.
+(2)glkos90 passt.
+(2)glkos90: SK GD RB G10 B9 
+(3)damned_tichu: RA RK SD SB B10 
+(0)fontas passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: B4 
+(0)fontas passt.
+(2)glkos90: RD 
+(3)damned_tichu passt.
+(0)fontas passt.
+(2)glkos90 passt.
+(2)glkos90: Hu 
+(0)fontas: BD BB S10 Ph B8 S7 
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: G5 R5 B5 
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: BA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: G3 
+Ergebnis: 5 - 195
+---------------Gr.Tichukarten------------------
+(0)fontas GK R10 B9 B7 G5 R5 R3 B2 
+(1)sal-matis GA SD G10 B10 G9 B5 G4 Hu 
+(2)glkos90 Ph BA BD R9 S8 B6 S5 G3 
+(3)damned_tichu BK SB RB S9 R7 G7 S3 G2 
+---------------Startkarten------------------
+(0)fontas GK R10 B9 G8 R8 S7 B7 R5 G5 B4 R3 B3 B2 S2 
+(1)sal-matis GA SK SD BB G10 S10 B10 G9 S6 R6 B5 R4 G4 Hu 
+(2)glkos90 Dr Ph BA BD GD GB R9 B8 S8 B6 S5 G3 R2 Ma 
+(3)damned_tichu RA SA RK BK RD SB RB S9 R7 G7 G6 S4 S3 G2 
+Schupfen:
+(0)fontas gibt: sal-matis: B2 - glkos90: GK - damned_tichu: S2 - 
+(1)sal-matis gibt: glkos90: Hu - damned_tichu: SD - fontas: B5 - 
+(2)glkos90 gibt: damned_tichu: R2 - fontas: R9 - sal-matis: G3 - 
+(3)damned_tichu gibt: fontas: S4 - sal-matis: RD - glkos90: S3 - 
+---------------Rundenverlauf------------------
+(2)glkos90: Ma 
+Wunsch:2
+(3)damned_tichu: G2 
+(0)fontas: B5 
+(1)sal-matis: G9 
+(2)glkos90: GB 
+(3)damned_tichu: SD 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90: GK 
+(3)damned_tichu: SA 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90: Dr 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+Drache an: (3)damned_tichu
+(2)glkos90: Hu 
+(0)fontas: R5 G5 B4 S4 R3 B3 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: R9 B9 G8 R8 S7 B7 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: R10 
+(1)sal-matis: BB 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(1)sal-matis: B2 
+(2)glkos90: S3 
+(3)damned_tichu: G6 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: S2 R2 
+(1)sal-matis: S6 R6 
+(2)glkos90: B8 S8 
+(3)damned_tichu: SB RB 
+(1)sal-matis passt.
+(2)glkos90: GD BD 
+(3)damned_tichu: RK BK 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: S9 
+(1)sal-matis passt.
+(2)glkos90: BA 
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: S5 
+(3)damned_tichu: R7 
+(1)sal-matis: RD 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(1)sal-matis: G10 S10 B10 R4 G4 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(1)sal-matis: G3 
+(2)glkos90: B6 
+(3)damned_tichu: G7 
+(1)sal-matis: GA 
+(2)glkos90: Ph 
+Ergebnis: 200 - 0
+---------------Gr.Tichukarten------------------
+(0)fontas GD B9 S9 S8 B6 R5 R2 Hu 
+(1)sal-matis BA GA B10 R9 R7 S6 G6 G5 
+(2)glkos90 Dr RA RB R10 S10 R6 S4 G2 
+(3)damned_tichu SD G9 B7 S7 S5 S3 G3 Ma 
+---------------Startkarten------------------
+(0)fontas SK GD RD GB S9 B9 S8 B6 B5 R5 R3 B3 R2 Hu 
+(1)sal-matis BA GA BD B10 G10 R9 R8 B8 R7 S6 G6 G5 B4 S2 
+(2)glkos90 Dr Ph SA RA GK RB SB R10 S10 G7 R6 S4 R4 G2 
+(3)damned_tichu BK RK SD BB G9 G8 B7 S7 S5 G4 G3 S3 B2 Ma 
+Schupfen:
+(0)fontas gibt: sal-matis: R2 - glkos90: SK - damned_tichu: Hu - 
+(1)sal-matis gibt: glkos90: G6 - damned_tichu: GA - fontas: S2 - 
+(2)glkos90 gibt: damned_tichu: S4 - fontas: G7 - sal-matis: R4 - 
+(3)damned_tichu gibt: fontas: G3 - sal-matis: SD - glkos90: S7 - 
+---------------Rundenverlauf------------------
+(3)damned_tichu: S5 S4 S3 B2 Ma 
+Wunsch:6
+(0)fontas: B9 S8 G7 B6 B5 
+(1)sal-matis: G10 R9 B8 R7 S6 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: R2 
+Tichu: (2)glkos90
+(2)glkos90: S7 
+(3)damned_tichu: G8 
+(0)fontas: S9 
+(1)sal-matis: B10 
+(2)glkos90: RA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: R6 G6 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis: SD BD 
+(2)glkos90: GK SK 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: G2 
+(3)damned_tichu: G4 
+(0)fontas: R5 
+(1)sal-matis: R8 
+(2)glkos90: SA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: Dr 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+Drache an: (1)sal-matis
+(2)glkos90: SB RB Ph S10 R10 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(3)damned_tichu: Hu 
+(1)sal-matis: G5 
+(3)damned_tichu: B7 
+(0)fontas: GB 
+(1)sal-matis: BA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: R4 B4 
+(3)damned_tichu passt.
+(0)fontas: GD RD 
+(3)damned_tichu: RK BK 
+(0)fontas passt.
+(3)damned_tichu passt.
+(3)damned_tichu: G9 
+(0)fontas passt.
+(3)damned_tichu passt.
+(3)damned_tichu: BB 
+(0)fontas passt.
+(3)damned_tichu passt.
+(3)damned_tichu: GA 
+Ergebnis: 130 - 70
+---------------Gr.Tichukarten------------------
+(0)fontas G10 B9 S8 B8 R5 B3 B2 S2 
+(1)sal-matis Ph BA BK RD S10 G6 S5 B5 
+(2)glkos90 RK G9 R8 G8 R7 G5 S4 G3 
+(3)damned_tichu BD BB RB GB R9 S7 R4 R2 
+---------------Startkarten------------------
+(0)fontas Dr GA SB B10 G10 B9 S8 B8 R5 R3 B3 S2 B2 Hu 
+(1)sal-matis Ph BA SA BK SD RD R10 S10 B7 G6 B6 B5 S5 B4 
+(2)glkos90 RA RK GD G9 R8 G8 R7 G7 R6 G5 S4 S3 G3 G2 
+(3)damned_tichu SK GK BD GB BB RB S9 R9 S7 S6 R4 G4 R2 Ma 
+Schupfen:
+(0)fontas gibt: sal-matis: S2 - glkos90: B9 - damned_tichu: B2 - 
+(1)sal-matis gibt: glkos90: G6 - damned_tichu: BK - fontas: S5 - 
+(2)glkos90 gibt: damned_tichu: R7 - fontas: RA - sal-matis: S3 - 
+(3)damned_tichu gibt: fontas: S6 - sal-matis: Ma - glkos90: R2 - 
+BOMBE: (2)glkos90 
+---------------Rundenverlauf------------------
+Tichu: (1)sal-matis
+(1)sal-matis: B7 B6 B5 B4 S3 S2 Ma 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: R10 S10 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: Ph BA SA SD RD 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(2)glkos90: G3 
+(3)damned_tichu: BD 
+(0)fontas: RA 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: R3 B3 
+(2)glkos90 passt.
+(3)damned_tichu: R4 G4 
+(0)fontas: S5 R5 
+(2)glkos90 passt.
+(3)damned_tichu: R7 S7 
+(0)fontas: S8 B8 
+(2)glkos90 passt.
+(3)damned_tichu: R9 S9 
+(0)fontas: G10 B10 
+(2)glkos90 passt.
+(3)damned_tichu: RB GB 
+(0)fontas passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: B2 
+(0)fontas: S6 
+(2)glkos90: R8 
+(3)damned_tichu: BB 
+(0)fontas: GA 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: SB 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: Dr 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+Drache an: (3)damned_tichu
+(0)fontas: Hu 
+(2)glkos90: S4 
+(3)damned_tichu: BK 
+(2)glkos90: G9 G8 G7 G6 G5 
+(3)damned_tichu passt.
+(2)glkos90 passt.
+(2)glkos90: B9 
+(3)damned_tichu: GK 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: SK 
+Ergebnis: 0 - 200
+---------------Gr.Tichukarten------------------
+(0)fontas RK B10 R9 S9 R7 S6 R5 S5 
+(1)sal-matis SA GA BD BB G9 B9 G8 S2 
+(2)glkos90 RD G10 S8 R6 R4 B4 B3 G2 
+(3)damned_tichu Dr RA BK RB G6 B6 B2 Ma 
+---------------Startkarten------------------
+(0)fontas BA RK SK R10 B10 S10 R9 S9 R7 G7 S6 S5 R5 R2 
+(1)sal-matis SA GA BD SD BB B9 G9 G8 B7 B5 S4 G3 S2 Hu 
+(2)glkos90 Ph GK RD SB G10 S8 B8 S7 R6 G5 R4 B4 B3 G2 
+(3)damned_tichu Dr RA BK GD GB RB R8 B6 G6 G4 S3 R3 B2 Ma 
+Schupfen:
+(0)fontas gibt: sal-matis: R5 - glkos90: SK - damned_tichu: R2 - 
+(1)sal-matis gibt: glkos90: G3 - damned_tichu: BB - fontas: S2 - 
+(2)glkos90 gibt: damned_tichu: S8 - fontas: Ph - sal-matis: B4 - 
+(3)damned_tichu gibt: fontas: R8 - sal-matis: Dr - glkos90: G4 - 
+---------------Rundenverlauf------------------
+(3)damned_tichu: Ma 
+Wunsch:5
+(0)fontas: S5 
+(1)sal-matis: B7 
+(2)glkos90: G10 
+(3)damned_tichu: GD 
+(0)fontas: RK 
+(1)sal-matis: SA 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: B5 R5 B4 S4 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas: B10 R10 S9 R9 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: S10 Ph R8 G7 S6 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: S2 
+(1)sal-matis: G8 
+(2)glkos90 passt.
+(3)damned_tichu: BK 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: BB GB RB G6 B6 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: S3 R3 R2 B2 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: S8 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90: SB 
+(3)damned_tichu: RA 
+(0)fontas passt.
+(1)sal-matis: Dr 
+(2)glkos90 passt.
+(0)fontas passt.
+(1)sal-matis passt.
+Drache an: (2)glkos90
+(1)sal-matis: B9 G9 
+(2)glkos90: SK GK 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: B8 S7 R6 G5 R4 B3 G2 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: G3 
+(0)fontas: BA 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(0)fontas passt.
+(0)fontas: R7 
+(1)sal-matis: GA 
+(2)glkos90 passt.
+(1)sal-matis passt.
+(1)sal-matis: SD BD 
+(2)glkos90 passt.
+(1)sal-matis passt.
+(1)sal-matis: Hu 
+Ergebnis: 15 - 85
+---------------Gr.Tichukarten------------------
+(0)fontas BK GD GB G10 B10 G7 B5 R5 
+(1)sal-matis RK BD R9 R8 S5 S4 G3 R2 
+(2)glkos90 GA RA BA S10 G6 G5 G4 B2 
+(3)damned_tichu Dr BB B9 G8 B7 B4 B3 S2 
+---------------Startkarten------------------
+(0)fontas Ph BK GD GB SB G10 R10 B10 G9 S8 G7 R5 B5 R3 
+(1)sal-matis RK GK SK BD R9 R8 S6 R6 B6 S5 S4 G3 R2 Ma 
+(2)glkos90 GA RA BA SA S10 B8 S7 G6 G5 G4 R4 S3 G2 B2 
+(3)damned_tichu Dr SD RD RB BB B9 S9 G8 B7 R7 B4 B3 S2 Hu 
+Schupfen:
+(0)fontas gibt: sal-matis: R5 - glkos90: SB - damned_tichu: R3 - 
+(1)sal-matis gibt: glkos90: R9 - damned_tichu: BD - fontas: R8 - 
+(2)glkos90 gibt: damned_tichu: R4 - fontas: S10 - sal-matis: B2 - 
+(3)damned_tichu gibt: fontas: Hu - sal-matis: Dr - glkos90: B4 - 
+BOMBE: (0)fontas (2)glkos90 
+---------------Rundenverlauf------------------
+(1)sal-matis: S5 S4 G3 R2 Ma 
+Wunsch:3
+(2)glkos90: G6 G5 G4 S3 G2 
+(3)damned_tichu passt.
+(0)fontas: G9 R8 G7 Ph B5 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: Hu 
+(2)glkos90: B4 
+(3)damned_tichu: G8 
+(0)fontas: GB 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: S8 
+(1)sal-matis passt.
+(2)glkos90: R9 
+(3)damned_tichu: RB 
+(0)fontas: GD 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: BK 
+(1)sal-matis: Dr 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas: S10 G10 R10 B10 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(1)sal-matis: B2 
+(2)glkos90: S7 
+(3)damned_tichu: BB 
+(1)sal-matis passt.
+(2)glkos90: SA 
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: B8 
+(3)damned_tichu: B9 
+(1)sal-matis passt.
+(2)glkos90: SB 
+(3)damned_tichu passt.
+(1)sal-matis: GK 
+(2)glkos90: BA 
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: GA RA 
+Ergebnis: 200 - 0
+---------------Gr.Tichukarten------------------
+(0)fontas Dr GA GD B10 B8 B6 R5 S4 
+(1)sal-matis SA GK S9 R7 R6 B4 R3 Hu 
+(2)glkos90 BA RA RB S8 B5 R4 S3 R2 
+(3)damned_tichu BK SK SD BD BB G8 R8 S6 
+---------------Startkarten------------------
+(0)fontas Dr GA GD GB B10 R9 B8 B7 G6 B6 R5 S4 G3 Ma 
+(1)sal-matis SA GK RK RD SB G9 S9 B9 R7 R6 B4 B3 R3 Hu 
+(2)glkos90 BA RA RB G10 S10 S8 G7 S7 B5 G5 R4 S3 R2 B2 
+(3)damned_tichu Ph SK BK BD SD BB R10 G8 R8 S6 S5 G4 S2 G2 
+Schupfen:
+(0)fontas gibt: sal-matis: G3 - glkos90: GD - damned_tichu: G6 - 
+(1)sal-matis gibt: glkos90: Hu - damned_tichu: SB - fontas: B4 - 
+(2)glkos90 gibt: damned_tichu: R2 - fontas: BA - sal-matis: B2 - 
+(3)damned_tichu gibt: fontas: S2 - sal-matis: R10 - glkos90: G2 - 
+---------------Rundenverlauf------------------
+Tichu: (0)fontas
+(0)fontas: GB B10 R9 B8 B7 B6 R5 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: S4 B4 
+(1)sal-matis: GK RK 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas: GA BA 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: Ma 
+Wunsch:3
+(1)sal-matis: G3 
+(2)glkos90: R4 
+(3)damned_tichu: G6 
+(0)fontas: Dr 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+Drache an: (1)sal-matis
+(0)fontas: S2 
+(1)sal-matis: R6 
+(2)glkos90: S8 
+(3)damned_tichu passt.
+(1)sal-matis: R10 
+(2)glkos90: RB 
+(3)damned_tichu passt.
+(1)sal-matis: RD 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(1)sal-matis: G9 S9 B9 B3 R3 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(1)sal-matis: B2 
+(2)glkos90: S3 
+(3)damned_tichu: G8 
+(1)sal-matis passt.
+(2)glkos90: GD 
+(3)damned_tichu passt.
+(1)sal-matis: SA 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(1)sal-matis passt.
+(1)sal-matis: R7 
+(2)glkos90 passt.
+(3)damned_tichu: R8 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: SK BK BD SD BB SB 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: S6 S5 G4 Ph R2 
+Ergebnis: 135 - 65
+---------------Gr.Tichukarten------------------
+(0)fontas RA SA BK GK G10 B10 B9 R7 
+(1)sal-matis SK SD G7 B5 B4 S3 B3 R2 
+(2)glkos90 RK BD SB S10 S7 R6 S5 G4 
+(3)damned_tichu Dr GA RB R9 S9 G5 G3 G2 
+---------------Startkarten------------------
+(0)fontas Ph SA RA GK BK B10 G10 B9 G9 R8 S8 R7 R5 S2 
+(1)sal-matis BA SK SD RD R10 B8 G7 B7 B5 B4 B3 S3 R2 Hu 
+(2)glkos90 RK BD SB BB GB S10 S7 R6 B6 S5 S4 G4 B2 Ma 
+(3)damned_tichu Dr GA GD RB S9 R9 G8 G6 S6 G5 R4 G3 R3 G2 
+Schupfen:
+(0)fontas gibt: sal-matis: S2 - glkos90: RA - damned_tichu: R5 - 
+(1)sal-matis gibt: glkos90: R2 - damned_tichu: SK - fontas: Hu - 
+(2)glkos90 gibt: damned_tichu: B2 - fontas: RK - sal-matis: S4 - 
+(3)damned_tichu gibt: fontas: R3 - sal-matis: RB - glkos90: S6 - 
+---------------Rundenverlauf------------------
+(2)glkos90: Ma 
+Wunsch:2
+(3)damned_tichu: B2 
+(0)fontas: R3 
+(1)sal-matis: B5 
+(2)glkos90: S7 
+(3)damned_tichu: G8 
+(0)fontas passt.
+(1)sal-matis: R10 
+(2)glkos90 passt.
+(3)damned_tichu: GD 
+(0)fontas: SA 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu: Dr 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+Drache an: (2)glkos90
+(3)damned_tichu: R5 
+(0)fontas passt.
+(1)sal-matis: B8 
+(2)glkos90: S10 
+(3)damned_tichu: SK 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: G6 G5 R4 G3 G2 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: S9 R9 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: GA 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(0)fontas: B9 G9 R8 S8 Ph R7 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(0)fontas passt.
+(0)fontas: RK GK BK B10 G10 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(0)fontas passt.
+(0)fontas: Hu 
+(2)glkos90: R2 
+(1)sal-matis: RB 
+(2)glkos90: BD 
+(1)sal-matis: BA 
+(2)glkos90 passt.
+(1)sal-matis passt.
+(1)sal-matis: B4 S4 S3 B3 
+(2)glkos90 passt.
+(1)sal-matis passt.
+(1)sal-matis: G7 B7 
+(2)glkos90: BB GB 
+(1)sal-matis: SD RD 
+(2)glkos90 passt.
+(1)sal-matis passt.
+(1)sal-matis: S2 
+Ergebnis: 25 - 75
+---------------Gr.Tichukarten------------------
+(0)fontas GA RD GD R8 B8 G7 R2 S2 
+(1)sal-matis R10 R9 G9 S8 S5 G5 G4 S3 
+(2)glkos90 RA SD B10 S7 G6 S6 B5 Hu 
+(3)damned_tichu BA GK RK S9 G8 B4 G3 G2 
+---------------Startkarten------------------
+(0)fontas Dr GA SK RD GD S10 B9 R8 B8 G7 R7 S4 R2 S2 
+(1)sal-matis Ph SB BB G10 R10 R9 G9 S8 B7 R5 S5 G5 G4 S3 
+(2)glkos90 RA SA BK SD BD RB B10 S7 S6 G6 R6 B5 R4 Hu 
+(3)damned_tichu BA GK RK GB S9 G8 B6 B4 G3 R3 B3 B2 G2 Ma 
+Schupfen:
+(0)fontas gibt: sal-matis: R2 - glkos90: Dr - damned_tichu: S2 - 
+(1)sal-matis gibt: glkos90: G4 - damned_tichu: B7 - fontas: S3 - 
+(2)glkos90 gibt: damned_tichu: B5 - fontas: B10 - sal-matis: R4 - 
+(3)damned_tichu gibt: fontas: B6 - sal-matis: S9 - glkos90: B4 - 
+---------------Rundenverlauf------------------
+(3)damned_tichu: Ma 
+Wunsch:6
+(0)fontas: B6 
+(1)sal-matis: S8 
+Tichu: (2)glkos90
+(2)glkos90: RB 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: Hu 
+(0)fontas: S3 
+(1)sal-matis: R4 
+(2)glkos90: S7 
+(3)damned_tichu: G8 
+(0)fontas: B9 
+(1)sal-matis passt.
+(2)glkos90: BK 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: S6 G6 R6 B4 G4 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis: G10 R10 R9 G9 S9 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: SB BB R5 S5 G5 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: Ph R2 
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(2)glkos90: BD SD 
+(3)damned_tichu passt.
+(0)fontas passt.
+(2)glkos90 passt.
+(2)glkos90: Dr 
+(3)damned_tichu passt.
+(0)fontas passt.
+(2)glkos90 passt.
+Drache an: (1)sal-matis
+(2)glkos90: SA RA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(3)damned_tichu: B5 
+(0)fontas: SK 
+(3)damned_tichu: BA 
+(0)fontas passt.
+(3)damned_tichu passt.
+(3)damned_tichu: B7 
+(0)fontas: GA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: R8 B8 G7 R7 
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: B10 S10 
+(3)damned_tichu: GK RK 
+(0)fontas passt.
+(3)damned_tichu passt.
+(3)damned_tichu: S2 B2 G2 
+(0)fontas passt.
+(3)damned_tichu passt.
+(3)damned_tichu: G3 R3 B3 
+(0)fontas passt.
+(3)damned_tichu passt.
+(3)damned_tichu: GB 
+Ergebnis: -90 - 90
+---------------Gr.Tichukarten------------------
+(0)fontas SK BD GB G10 R8 B8 S5 R2 
+(1)sal-matis BB B10 R10 G8 R7 G6 B3 G3 
+(2)glkos90 Dr GA BA SA G4 B4 R3 S3 
+(3)damned_tichu RA BK SD G9 B5 G5 S4 G2 
+---------------Startkarten------------------
+(0)fontas Ph GK SK BD GB G10 S9 B8 S8 R8 S7 S5 R5 R2 
+(1)sal-matis GD BB R10 B10 G8 B7 R7 R6 G6 S6 B3 G3 B2 Ma 
+(2)glkos90 Dr GA BA SA SB RB S10 B9 B6 B4 G4 S3 R3 S2 
+(3)damned_tichu RA BK RK RD SD R9 G9 G7 B5 G5 R4 S4 G2 Hu 
+Grosses Tichu: (2)glkos90
+Schupfen:
+(0)fontas gibt: sal-matis: R5 - glkos90: Ph - damned_tichu: R2 - 
+(1)sal-matis gibt: glkos90: B2 - damned_tichu: BB - fontas: G8 - 
+(2)glkos90 gibt: damned_tichu: B6 - fontas: B9 - sal-matis: S2 - 
+(3)damned_tichu gibt: fontas: G2 - sal-matis: RA - glkos90: Hu - 
+BOMBE: (0)fontas 
+---------------Rundenverlauf------------------
+(1)sal-matis: Ma 
+Wunsch:8
+(2)glkos90: B2 
+(0)fontas: B8 S8 R8 G8 
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: G2 
+(1)sal-matis: R5 
+(2)glkos90: GA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: B4 G4 S3 R3 
+(3)damned_tichu: G5 B5 S4 R4 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90: RB SB Ph S10 
+(3)damned_tichu: BK RK RD SD 
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(3)damned_tichu passt.
+(3)damned_tichu: R2 
+(0)fontas: S5 
+(1)sal-matis passt.
+(2)glkos90: SA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: BA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(2)glkos90 passt.
+(2)glkos90: Hu 
+(0)fontas: S7 
+(1)sal-matis: GD 
+(2)glkos90: Dr 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+Drache an: (1)sal-matis
+(3)damned_tichu: B6 
+(0)fontas: G10 
+(1)sal-matis passt.
+(3)damned_tichu: BB 
+(0)fontas: BD 
+(1)sal-matis: RA 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: R6 G6 S6 B3 G3 
+(3)damned_tichu passt.
+(0)fontas passt.
+(1)sal-matis passt.
+(1)sal-matis: S2 
+(3)damned_tichu: G7 
+(0)fontas: GB 
+(1)sal-matis passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: GK SK 
+(1)sal-matis passt.
+(3)damned_tichu passt.
+(0)fontas passt.
+(0)fontas: B9 S9 
+Ergebnis: 400 - 0
