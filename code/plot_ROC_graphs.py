@@ -2,6 +2,8 @@
 import os
 import numpy as nm
 import matplotlib.pylab as mpl
+import sklearn.metrics as mtrcs
+
 
 ## hardcoded c, gamma, and threshold values were calculated in other files and are the values for which the models return the optimal results.
 
@@ -51,6 +53,8 @@ true_positive_rate_list2 = list()
 false_positive_rate_list2 = list()
 resultList_SVR = list()
 bestThresholdResultsList_SVR = list()
+auc_LR = 0
+auc_SVR = 0
 with open(r'SVRTestPlayerCalls.data') as results:
     for line in results:
         resultList_SVR.append(int(line))
@@ -88,11 +92,11 @@ with open(r'SVRTestPlayerCalls.data') as results:
                     true_positive_rate_list2.append(true_positive_rate)
 
     fig, ax1 = mpl.subplots()
-    ax1.plot(false_positive_rate_list, true_positive_rate_list, color='teal', label='Logistic Regression')
+    ax1.plot(false_positive_rate_list, true_positive_rate_list, color='teal', label='Logistic Regression ROC with AUC: ' + str(mtrcs.auc(false_positive_rate_list, true_positive_rate_list)))
     ax1.set_xlabel('False Positive Rate [0,1]')
     ax1.set_ylabel('True Positive Rate [0,1]')
     ax1.set_title('Receiver Operating Characteristic curves')
-    ax1.plot(false_positive_rate_list2, true_positive_rate_list2, color='tomato', label='Support Vector Regression')
+    ax1.plot(false_positive_rate_list2, true_positive_rate_list2, color='tomato', label='Support Vector Regression ROC with AUC: ' + str(mtrcs.auc(false_positive_rate_list2, true_positive_rate_list2)))
     mpl.legend(loc='best')
     fig.tight_layout()
     mpl.show()
