@@ -5,6 +5,6 @@
   
   Thesis - http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/17493
   
-  Presentation - 
+  Presentation - https://github.com/ch-asimakopoulos/Tichu-Sensei/blob/master/Thesis%20Presentation_ch.pdf
   
   Charalampos Asimakopoulos
